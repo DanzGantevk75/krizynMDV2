@@ -49,43 +49,39 @@ global.author = '© DanzzOfc'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
+global.APIs = { // API Prefix
   // name: 'https://website'
-  amel: 'https://melcanz.com',
-    bx: 'https://bx-hunter.herokuapp.com',
-  dhnjing: 'https://dhnjing.xyz',
-  hardianto: 'https://hardianto-chan.herokuapp.com',
-  jonaz: 'https://jonaz-api-v2.herokuapp.com',
-  neoxr: 'https://neoxr-api.herokuapp.com',
   nrtm: 'https://nurutomo.herokuapp.com',
+  rey: 'https://server-api-rey.herokuapp.com',
   xteam: 'https://api.xteam.xyz',
-  nzcha: 'http://nzcha-apii.herokuapp.com',
-  bg: 'http://bochil.ddns.net',
-  fdci: 'https://api.fdci.se',
-  dzx: 'https://api.dhamzxploit.my.id',
-  bsbt: 'https://bsbt-api-rest.herokuapp.com',
   zahir: 'https://zahirr-web.herokuapp.com',
-  zeks: 'https://api.zeks.xyz',
-  zekais: 'http://zekais-api.herokuapp.com',
-  hardianto: 'https://hardianto-chan.herokuapp.com',
-  pencarikode: 'https://pencarikode.xyz', 
-  erdwepe: 'https://erdwpe-api.herokuapp.com',
-  lolhuman: 'https://api.lolhuman.xyz',
+  lol: 'https://api.lolhuman.xyz',
+  dhnjing: 'https://dhnjing.xyz',
+  neoxr: 'https://neoxr-api.herokuapp.com',
+  zeks: 'https://api.zeks.me',
+  pencarikode: 'https://pencarikode.xyz',
+  ana: 'https://anabotofc.herokuapp.com/',
+  amel: 'https://melcanz.com',
+  hardianto: 'https://hardianto.xyz',
+  botstyle: 'https://botstyle-api.herokuapp.com',
+  adiisus: 'https://adiixyzapi.herokuapp.com',
   LeysCoder: 'https://leyscoders-api.herokuapp.com',
-  rey: 'https://server-api-rey.herokuapp.com'
+  kanx: 'https://kannxapi.herokuapp.com/'
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://melcanz.com': 'elaina',
-  'https://server-api-rey.herokuapp.com': 'apirey',
-  'https://api.xteam.xyz': 'd37372311698ed1d',
+  'https://api.xteam.xyz': 'APIKEY',
+  'https://anabotofc.herokuapp.com/': 'APIKEY',
+  'https://api.lolhuman.xyz': 'APIKEY',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
-  'https://bsbt-api-rest.herokuapp.com': 'benniismael',
-  'https://api.zeks.xyz': 'apivinz',
-  'https://hardianto-chan.herokuapp.com': 'hardianto',
-  'https://pencarikode.xyz': 'pais', 
-  'https://leyscoders-api.herokuapp.com': 'dappakntlll',
-  'https://zekais-api.herokuapp.com': 'apikeymu',
-  'https://api.lolhuman.xyz': 'Deffbotz',
+  'https://api.zeks.me': 'apivinz',
+  'https://pencarikode.xyz': 'pais',
+  'https://melcanz.com': 'APIKEY',
+  'https://neoxr-api.herokuapp.com': 'yntkts',
+  'https://server-api-rey.herokuapp.com': 'apirey',
+  'https://botstyle-api.herokuapp.com': 'APIKEY',
+  'https://hardianto.xyz': 'hardianto',
+  'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
 
 //=============『 RPG GAMES 』================== //
